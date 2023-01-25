@@ -62,7 +62,7 @@
 ## Image 6
 
 ### Input 
-![image](https://user-images.githubusercontent.com/59016268/214617591-bbe70e8d-02d7-49b4-a530-d8886e105b46.png)
+![image](https://user-images.githubusercontent.com/59016268/214618170-39eef23d-ea72-4057-977f-20d63acde438.png)
 
 ### Process
 ![image](https://user-images.githubusercontent.com/59016268/214617614-23c6bdff-6ab4-451e-9702-24e258aeeddd.png)
@@ -82,6 +82,3 @@
 ### Output
 
 ![image](https://user-images.githubusercontent.com/59016268/214617732-ee80d37e-4b1d-4fec-b843-2d9b9836e14f.png)
-
-
-### Output
